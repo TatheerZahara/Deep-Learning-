@@ -1,3 +1,2 @@
-# IST597-ClassWork-
+Testing out Deep Learning frameworks without using built-in functions 
 
-This repository is designated for homeworks and class assignments of IST597: Deep Learning 
